@@ -2,9 +2,7 @@
 
 An AI saas application for transforming images.
 
-<p align="center">
- <img src="https://github.com/jdmac26/transformate/assets/55863642/e72e0995-1b9a-4fdd-bd9a-e6688013ec50" alt="animated"/>
- </p>
+![Untitled design](https://github.com/jdmac26/transformate/assets/55863642/4a52a443-e48b-4311-87b1-7e0baedc2aab)
 
 ## Cloned and Modified from JS Mastery
 
