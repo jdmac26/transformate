@@ -1,4 +1,4 @@
-# Tranformate
+# Tranformate [Incomplete :bug:]
 
 An AI saas application for transforming images.
 
